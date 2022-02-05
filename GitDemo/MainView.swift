@@ -11,10 +11,7 @@ class MainView: UIViewController {
     var str: String = "Hello world"
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
         print(str)
     }
-
-
 }
 
