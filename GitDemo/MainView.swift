@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class MainView: UIViewController {
 
     var str: String = "Hello worlr"
     override func viewDidLoad() {
